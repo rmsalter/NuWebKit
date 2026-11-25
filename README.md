@@ -8,7 +8,7 @@ Compose your own agent-based, spatial and system dynamics models. Click to acces
 
 **Numerus Documents**
 
-* NuWebKit is documented in [*AI-enabled, user-modifiable, systems simulation web apps*](https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.1964116/full) by Salter & Getz.
+* NuWebKit is documented in [Salter R and Getz WM (2026), *AI-enabled, user-modifiable, systems simulation web apps*, Front. Syst. Biol. 6:1964116. doi: 10.3389/fsysb.2026.1964116](https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.1964116/full).
 * Additional documentation for NuWebKit can be found at [wiki.numerusinc.com](https://wiki.numerusinc.com/index.php/Main_Page).
 * See also:
     * [The Numerus Midas SIRS App](https://www.numerusinc.com/midas/), a complete lesson in classic epidemiology.
