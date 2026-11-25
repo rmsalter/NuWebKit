@@ -7,8 +7,10 @@ This is an index of the NuWebKit client-side example models repository. Some are
 Compose your own agent-based, spatial and system dynamics models. Click to access to the Designer authoring sites, with access to source code from the model library available for reference.
 
 
-User Guides and Tutorials for Designer
-Programming ABMs and Cellular Automata is described in NL API User Manual: Building Patch and Agent Models.
-Programming system-dynamics models is described in SD API User Manual: Building Stock-and-Flow Models.
-The NuML modeling language used by the DynSS apps is described in the NuML User Manual.
-Complete documentation for NuWebKit can be found at wiki.numerusinc.com.
+**User Guides and Tutorials for Designer**
+
+* Programming ABMs and Cellular Automata is described in [NL API User Manual: Building Patch and Agent Models](https://nuwebkit.models.numerus.app/common/doc/).
+* Programming system-dynamics models is described in [SD API User Manual: Building Stock-and-Flow Models](https://nuwebkit.models.numerus.app/common/doc/sd/).
+* The NuML modeling language used by the DynSS apps is described in the [NuML User Manual](https://nuwebkit.models.numerus.app/common/doc/numl/).
+
+Complete documentation for NuWebKit can be found at [wiki.numerusinc.com](https://wiki.numerusinc.com/index.php/Main_Page).
