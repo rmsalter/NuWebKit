@@ -5,10 +5,13 @@
 **NuWebKit Features**`
 * Supports Agent-based (ABM), Spatial and System Dynamic (SD) modeling paradigms.
 * Entirely Web-browser based. No installation required.
+* References familiar Netlogo "patch" and "turtle" (ABM, Spatial); and "stock" and "flow" (SD) models.
+* Built-in execution rules, which simplify programming, can be overridden when necessary.
 * Data can be downloaded into comma-separated-value (CSV) files.
 * All applications can include on-board documentation.
-* Includes programmable presets that capture parameter settings. Presets are stored in the browser and return with every session,
+* Includes programmable presets that capture parameter settings and SD model specifications. Presets are stored in the browser and return with every session.
 * The Designer application lets you build your own applications in the Web browser.
+* The RAM (runtime alterable model) feature, seen on previous Numerus platforms, allow controlled design changes to be made at runtime and captured in presets.
 * Extensive user guides and tutorials are provided to assist programmers.
 * An eclectic and growing Model Library, along with its source code, is maintained to provide design ideas.
 * Presets and user-defined projects are downloadable for local storage and sharing, and are easily re-launched.
