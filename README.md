@@ -14,6 +14,7 @@
 * Presets and user-defined projects are downloadable for local storage and sharing, and are easily re-launched.
 * SD models can be built either as stand-alone projects, or as presets of a hosting app, using a simplified code that reduces programming complexity.
 * AI integration can be used to build SD models from plain-language user prompts. AI integration for ABM and Spatial models will soon be available.
+* Models can take advantage of Sensitivity Analysis and Stochastic multi-run analytical tools.
 * The Remote Operation feature, available shortly, can make any simulation operate as a "virtual" package under the control of the R statistical platform, Python or any platform supporting internet sockets.
  
 
