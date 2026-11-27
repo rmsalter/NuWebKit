@@ -2,6 +2,21 @@
 
 **Numerus NuWebKit** is a browser-based simulator designed for cellular, agent-based, and dynamical systems modeling, analysis, and simulation. Integrated into the Numerus ecosystem, the platform allows users to build and run computational models directly in a web browser. It provides accessible preset models that require no initial programming, while also featuring an AI window that enables users to modify existing frameworks or construct custom models from scratch. It is commonly used in educational and research environments to teach system dynamics and mathematical modeling concepts.
 
+**NuWebKit Features**`
+* Supports Agent-based (ABM), Spatial and System Dynamic (SD) modeling paradigms.
+* Entirely Web-browser based. No installation required.
+* Data can be downloaded into comma-separated-value (CSV) files.
+* All applications can include on-board documentation.
+* Includes programmable presets that capture parameter settings. Presets are stored in the browser and return with every session,
+* The Designer application lets you build your own applications in the Web browser.
+* Extensive user guides and tutorials are provided to assist programmers.
+* An eclectic and growing Model Library, along with its source code, is maintained to provide design ideas.
+* Presets and user-defined projects are downloadable for local storage and sharing, and are easily re-launched.
+* SD models can be built either as stand-alone projects, or as presets of a hosting app, using a simplified code that reduces programming complexity.
+* AI integration can be used to build SD models from plain-language user prompts. AI integration for ABM and Spatial models will soon be available.
+* The Remote Operation feature, available shortly, can make any simulation operate as a "virtual" package under the control of the R statistical platform.
+ 
+
 Visit the [NuWebKit client-side example models repository](https://nuwebkit.models.numerus.app/). Some are general audience examples of models as webapps, while others are demonstrations for specific audiences.
 
 Compose your own agent-based, spatial and system dynamics models. Click to access to the [Designer](https://nuwebkit.models.numerus.app/common/designer/index1.html) authoring site, with access to source code from the model library available for reference.
