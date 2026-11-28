@@ -6,6 +6,7 @@
 * Supports Agent-based (ABM), Spatial and System Dynamic (SD) modeling paradigms.
 * Entirely Web-browser based. No installation required.
 * References familiar Netlogo "patch" and "turtle" (ABM, Spatial); and "stock" and "flow" (SD) models.
+* State variables are all double-buffered, insuring that state transitions are concurrent.
 * Built-in execution rules, which simplify programming, can be overridden when necessary.
 * Data can be downloaded into comma-separated-value (CSV) files.
 * All applications can include on-board documentation.
