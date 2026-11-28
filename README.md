@@ -26,7 +26,7 @@ Visit the [NuWebKit client-side example models repository](https://nuwebkit.mode
 
 Compose your own agent-based, spatial and system dynamics models. 
 Click to access the Designer authoring site, with access to source code from the model library available for reference:
-![nuwebkit-designer-logo.png](https://nuwebkit.models.numerus.app/common/designer/index1.html) 
+![https://github.com/rmsalter/NuWebKit/nuwebkit-designer-logo.png](https://nuwebkit.models.numerus.app/common/designer/index1.html) 
 
 **Numerus Documents**
 
