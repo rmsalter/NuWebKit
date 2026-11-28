@@ -1,4 +1,4 @@
-![Numerus NuWebKit](https://github.com/rmsalter/NuWebKit/blob/main/nuwebkit-logo.png)
+![Numerus NuWebKit](nuwebkit-logo.png)
 
 **Numerus NuWebKit** is a browser-based simulator designed for cellular, agent-based, and dynamical systems modeling, analysis, and simulation. Integrated into the Numerus ecosystem, the platform allows users to build and run computational models directly in a web browser. It provides accessible preset models that require no initial programming, while also featuring an AI window that enables users to modify existing frameworks or construct custom models from scratch. It is commonly used in educational and research environments to teach system dynamics and mathematical modeling concepts.
 
@@ -25,8 +25,8 @@
 Visit the [NuWebKit client-side example models repository](https://nuwebkit.models.numerus.app/). Some are general audience examples of models as webapps, while others are demonstrations for specific audiences.
 
 Compose your own agent-based, spatial and system dynamics models.<br>
-Click to access the Designer authoring site, with access to source code from the model library available for reference:<br>
-[![NuWebKit Designer](https://github.com/rmsalter/NuWebKit/blob/main/nuwebkit-designer-logo.png)](https://nuwebkit.models.numerus.app/common/designer/index1.html) 
+Click to access the Designer authoring site, with access to source code from the model library available for reference:<br><br>
+[![NuWebKit Designer](nuwebkit-designer-logo.png)](https://nuwebkit.models.numerus.app/common/designer/index1.html) 
 
 **Numerus Documents**
 
